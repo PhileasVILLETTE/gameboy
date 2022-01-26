@@ -1,0 +1,257 @@
+.boitier
+{
+	display: outline-block;
+	padding: 1px;
+	background: #067771;
+	border-radius: 10px 10px 100px 10px;
+	width: 510px;
+	height: 840px;
+	text-align: center;
+	box-shadow: inset -25px 40px 5px #178882;
+}
+.bordure
+{
+	display: outline-block;
+	padding: 1px;
+	background: #242827;
+	border-radius: 1px 1px 80px 1px;
+	width: 450px;
+	height: 380px;
+	text-align: center;
+	margin-left: 30px;
+	margin-top: 40px;
+}
+.ecran
+{
+	display: outline-block;
+	padding: 1px;
+	background: #acb526;
+	border-radius: 0px 0px 0px 0px;
+	width: 320px;
+	height: 270px;
+	text-align: center;
+	margin-left: 65px;
+	margin-top: 55px;
+	box-shadow: inset -30px 20px 5px #bdc637;
+}
+.gameboy
+{
+	display: outline-block;
+	padding: 1px;
+	color: #494b48;
+	margin-left: -225px;
+	margin-top: -5px;
+	font-family: arial;
+	font-size: 20px;
+	font-style: italic;
+}
+.pocket
+{
+	display: outline-block;
+	padding: 1px;
+	background: #494b48;
+	border-radius: 0px 0px 0px 0px;
+	border: 1px solid #494b48;
+	width: 60px;
+	height: 20px;
+	margin-left: 170px;
+	margin-top: -45px;
+}
+.nintendo
+{
+	display: inline-block;
+	padding: 1px;
+	color: #289590;
+	border-radius: 65px 65px 65px 65px;
+	border: 3px solid #289590;
+	width: 130px;
+	height: 40px;
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 20px;
+	font-family: arial;
+	font-size: 25px;
+}
+.button-a
+{
+	display: outline-block;
+	padding: 1px;
+	background: #272d29;
+	border-radius: 30px 30px 30px 30px;
+	width: 60px;
+	height: 60px;
+	margin-left: 410px;
+	margin-top: 20px;
+	box-shadow: inset -5px 5px 5px #383e40;
+}
+.button-b
+{
+	display: outline-block;
+	padding: 1px;
+	background: #272d29;
+	border-radius: 30px 30px 30px 30px;
+	width: 60px;
+	height: 60px;
+	margin-left: 320px;
+	margin-top: -10px;
+	box-shadow: inset -5px 5px 5px #383e40;
+}
+.letter-a
+{
+	display: outline-block;
+	padding: 1px;
+	margin-left: 380px;
+	margin-top: -60px;
+	font-family: arial;
+	font-size: 20px;
+	color: white;
+}
+.letter-b
+{
+	display: outline-block;
+	padding: 1px;
+	margin-left: 200px;
+	margin-top: -10px;
+	font-family: arial;
+	font-size: 20px;
+	color: white;
+}
+.croix-x
+{
+	display: outline-block;
+	padding: 1px;
+	background: #272d29;
+	border-radius: 5px 5px 5px 5px;
+	width: 150px;
+	height: 50px;
+	margin-left: 30px;
+	margin-top: -140px;
+	box-shadow: inset -5px 5px 5px #383e40;
+}
+.croix-y
+{
+	display: outline-block;
+	padding: 1px;
+	background: #272d29;
+	border-radius: 5px 5px 5px 5px;
+	width: 50px;
+	height: 150px;
+	margin-left: 80px;
+	margin-top: -100px;
+	box-shadow: inset -5px 5px 5px #383e40;
+}
+.button-select
+{
+	display: outline-block;
+	padding: 1px;
+	background: #272d29;
+	border-radius: 10px 10px 10px 10px;
+	width: 60px;
+	height: 20px;
+	margin-left: 180px;
+	margin-top: 60px;
+	box-shadow: inset -5px 5px 5px #383e40;
+}
+.button-start
+{
+	display: outline-block;
+	padding: 1px;
+	background: #272d29;
+	border-radius: 10px 10px 10px 10px;
+	width: 60px;
+	height: 20px;
+	margin-left: 260px;
+	margin-top: -22px;
+	box-shadow: inset -5px 5px 5px #383e40;
+}
+.letter-select
+{
+	display: outline-block;
+	padding: 1px;
+	font-family: arial;
+	font-size: 18px;
+	color: white;
+	margin-left: -90px;
+	margin-top: -5px;
+}
+.letter-start
+{
+	display: outline-block;
+	padding: 1px;
+	font-family: arial;
+	font-size: 18px;
+	color: white;
+	margin-left: 70px;
+	margin-top: -60px;
+}
+.son
+{
+	display: outline-block;
+	padding: 1px;
+	border-radius: 50px 0px 50px 0px;
+	border: 1px solid #067771;
+	width: 100px;
+	height: 100px;
+	margin-left: 380px;
+	margin-top: -70px;
+}
+.text
+{
+	margin-left: -8px;
+	margin-top: 2px;
+	color: #242827;
+	font-size: 20px;
+	font-family: Harlow;
+	font-style: bold;
+}
+.big-n
+{
+	margin-left: 0px;
+	margin-top: 5px;
+}
+.rien
+{
+	display: outline-block;
+	padding: 1px;
+	border-radius: 20px 20px 20px 20px;
+	border: 0.1px solid #067771;
+	width: 6px;
+	height: 6px;
+}
+.plein
+{
+	display: outline-block;
+	padding: 1px;
+	border-radius: 20px 20px 20px 20px;
+	border: 1px solid #178479;
+	width: 6px;
+	height: 6px;
+	background: #178479;
+}
+.vide
+{
+	display: outline-block;
+	padding: 1px;
+	border-radius: 20px 20px 20px 20px;
+	border: 1px solid #272d29;
+	width: 6px;
+	height: 6px;
+	background: #272d29;
+}
+.espace
+{
+	display: outline-block;
+	padding: 1px;
+	width: 2px;
+	height: 4px;
+}
+.points
+{
+	width: 100px;
+	height: 100px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-content: space-between;
+	margin-top: -18px;
+}
